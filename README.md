@@ -5,7 +5,7 @@ Luca Di Bello - SUPSI - 2022/2023
 
 The aim of this project is to analyze the salary of IT jobs in the field of Artificial Intelligence, Cyber Security and DevOps taking into consideration job title, company, location, seniority and industry.
 
-Take at look at the notebook [here]()
+Take at look at the notebook [here](https://lucadibello.github.io/it-salary-analysis/).
 
 ## Datasets used
 
